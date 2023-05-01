@@ -6,7 +6,7 @@ API_ID = os.environ.get("API_ID", "29981627")
 
 API_HASH = os.environ.get("API_HASH", "4ff014bdc13d1622424ac0ef2135e40e")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5903043731:AAFYoC7n3LmQfbOt6ulUAwxJ_Gz6YXROXf8") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5906235559:AAFydofUG2WZuNhVMRiQTcbb7gIGbcgTzgo") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "@vexx_amv_official") 
 
